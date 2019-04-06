@@ -1,5 +1,8 @@
 # Deep-Learning
 
+If the notebook does not load:
+  https://colab.research.google.com/drive/1_0B06FOWZJ1oPuqUPF5FDtTGDskU7dfM
+
 So the notebook contains details of the various techniques I have tried to implement. Such as 
 1. spatially seperated conv2D (reduce no. of params)
 2. image aug (ImageDataGenerator class)
