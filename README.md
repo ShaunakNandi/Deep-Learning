@@ -1,4 +1,4 @@
-# Deep-Learning
+# Training the tiny-ImageNet Dataset
 
 If the notebook does not load:
   https://colab.research.google.com/drive/1_0B06FOWZJ1oPuqUPF5FDtTGDskU7dfM
@@ -13,9 +13,6 @@ So the notebook contains details of the various techniques I have tried to imple
 TODO: 
 1. I did not get to try successful implementations of class weights/ hard-mining/ soft-labelling
 2. Increase the val_acc off course
-
-This was the first time I went really hands on with training a model (that too from scratch!!). So it's a start.
-Really happy with this project though, even though this is far from the best models I've seen developed by peers in the competitve class I participated in. However, this definitely gave the hands-on I craved for!!
 
 --
 1. Trained on tiny-imagenet, Keras framework (tf backend)
