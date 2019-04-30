@@ -16,7 +16,7 @@ So the notebook contains details of the various techniques I have tried to imple
 # The Utility python file
 
 val_id.py is a python program I wrote to segregate the validation dataset (10,000 images) into their respective folders. 
-Accprding to the structure of the dataset, the folder names is the class names itself. Hence, given the path to val images, 
+According to the structure of the dataset, the folder names is the class names itself. Hence, given the path to val images, 
 this program reads the annotation.txt, creates the folders (200) and moves images into respective folders (50 images per folder).
 
 - - - -
@@ -33,3 +33,4 @@ The intuition was to feed the input to every concat layer such that there's the 
 TODO: 
 1. I did not get to try successful implementations of class weights/ hard-mining/ soft-labelling
 2. Increase the val_acc off course
+3. Continue this journey
