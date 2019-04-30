@@ -2,7 +2,8 @@
 
 If the notebook does not load:
   https://colab.research.google.com/drive/1_0B06FOWZJ1oPuqUPF5FDtTGDskU7dfM
-
+  
+  
 So the notebook contains details of the various techniques I have tried to implement. Such as 
 1. spatially seperated conv2D (reduce no. of params)
 2. image aug (ImageDataGenerator class)
@@ -21,4 +22,3 @@ TODO:
 4. I experimented building a lot of models and this seemed to give the best result at the time. 
 This particular one is inspired from res18 but I've modified it to a hybrid between res18 and a minimal amount of DenseNet concept. 
 The intuition was to feed the input to every concat layer such that there's the global receptive of what the input image is. 
-
